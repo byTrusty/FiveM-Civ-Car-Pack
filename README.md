@@ -82,7 +82,7 @@ all cars below besides the ones in poly-super-high.txt below 300k poly count.
 | **2015 Ford Mustang GT 50 Years Special Edition** | mustang50th | ![Picture](./img/mustang50th.webp) | modcanario (alertacobra_gta5_mods) and zQrba | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ford-mustang-gt-50-years-special-edition-add-on-tunning) | ✔️ |
 | **2017 Ford Raptor** | 17raptor | ![Picture](./img/raptor2017.webp) | ArteX | [5MODS Link](https://www.gta5-mods.com/vehicles/els-police-and-civilian-2017-ford-raptor-add-on) | ✔️ |
 | **2021 Ford Bronco Wildtrak** | wildtrak | ![Picture](./img/wildtrak.webp) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem) | ✔️ |
-| **1997 Honda Civic Sedan Drag Version** | dragekcivick | ![Picture](./img/dragekcivick.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/) | ✔️ | xAdrian |
+| **1997 Honda Civic Sedan Drag Version** | dragekcivick | ![Picture](./img/dragekcivick.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/) | ✔️ | 
 | **Honda S2000 AP2** | ap2 | ![Picture](./img/ap2.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-s2000-tunable) | ✔️ |
 | **2001 Honda Civic Type-R (EP3)** | ep3 | ![Picture](./img/ep3.jpg) | [YCA]Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/2004-honda-civic-type-r-ep3) | ✔️ |
 | **2018 Honda Civic Type-R (FK8)** | fk8 | ![Picture](./img/fk8.webp) | [YCA]Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-honda-civic-type-r-fk8) | ✔️ |
@@ -103,7 +103,7 @@ all cars below besides the ones in poly-super-high.txt below 300k poly count.
 | **2009 Lamborghini Murcielago LP 670-4 SV** | lp670sv | ![Picture](./img/lp670sv.webp) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/2009-lamborghini-murcielago-lp-670-4-sv-add-on) | ✔️ |
 | **2013 Lamborghini Aventador LP700-4 Roadster** | lp700r | ![Picture](./img/lp700r.webp) | [YCA]se7enmoon | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-lamborghini-aventador-lp750-4-superveioce-roadster-se7enmoon) | ✔️ |
 | **Lamborghini Aventador SVJ** | svj63 | ![Picture](./img/svj63.webp) | yanfenglenfan | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-lamborghini-aventador-svj-add-on-digital-gear-hq) | ✔️ |
-| **Lamborghini Urus** | urus | ![Picture](./img/urus.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-urus-add-on-template) | ✔️ | gabrielcalderon |
+| **Lamborghini Urus** | urus | ![Picture](./img/urus.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-urus-add-on-template) | ✔️ |
 | **2013 Lamborghini Veneno LP750-4** | veneno | ![Picture](./img/veneno.webp) | yanfenglenfan | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-lamborghini-veneno-lp750-4-add-on-l-tuning-l-4k-template-l-digital-gear) | ✔️ |
 | **Lexus GS 350** | gs350 | ![Picture](./img/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **2014 Lexus IS 350** | is350mod | ![Picture](./img/is350mod.jpg) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-lexus-is-350-exterior-remodel-add-on-tuning-template) | ✔️ |
@@ -173,7 +173,7 @@ all cars below besides the ones in poly-super-high.txt below 300k poly count.
 | **2019 Suzuki Katana** | katana | ![Picture](./img/katana.jpg) | Zen-Imogen, NGR_Ardiansyah | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-suzuki-katana) | ✔️ |
 | **2020 Tesla Roadster** | tr22 | ![Picture](./img/tr22.webp) | skyrix | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-roadster-2020-add-on-replace-auto-spoiler) | ✔️ | 
 | **Tesla Model X Unplugged Performance** | p90d | ![Picture](./img/p90d.webp) | MrDK | [5MODS Link](https://www.gta5-mods.com/vehicles/telsa-model-x-unplugged-performance-hq-addon) | ✔️ |
-| **2016 Tesla Model S P90D** | models | ![Picture](./img/models.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-tesla-model-s-p90d) | ✔️ | [Custom Handling](https://www.gta5-mods.com/vehicles/tesla-model-s-p90d-2016-handling) |
+| **2016 Tesla Model S P90D** | models | ![Picture](./img/models.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-tesla-model-s-p90d) | ✔️ |
 | **2016 Tesla Model X P90D** | teslax | ![Picture](./img/teslax.jpg) | Biggdogg & FoxtrotDelta | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-model-x-p90d) | ✔️ |
 | **2017 Tesla Model S Prior design** | teslapd | ![Picture](./img/teslapddd.webp) | [DTD]RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-prior-design-add_on-replace) | ✔️ |
 | **2018 Toyota Camry XSE** | cam8tun | ![Picture](./img/cam8tun.png) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-camry-xse-2018-crazy-exterior-add-on-tuning) | ✔️ |
