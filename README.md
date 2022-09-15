@@ -8,8 +8,8 @@ all cars below besides the ones in poly-super-high.txt below 300k poly count.
 <!--![plocks-cars.cfg](https://img.shields.io/badge/plocks&minus;cars.cfg-Outdated-red?style=for-the-badge)-->
 <center><h1>All included cars with pictures and spawn codes</h1></center>
 
-| Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link<sub>[5MODS](https://gta5-mods.com/) or [LSPDFR](https://www.lcpdfr.com/)</sub> | Status | Extra Notes |
-| :-: | :-: | :---: | :-: | :-: | :-: | :-: |
+| Car Name | Spawn Code  | Link to Picture | Author | Authors Download Link | Status | Extra Notes |
+| :-: | :-: | :--: | :-: | :-: | :-: | :-: |
 | **Acura TL Type-S** | tltypes | ![Picture](./img/tltypes.webp) | Jomanire and Lazlow555 | [5MODS Link](https://www.gta5-mods.com/vehicles/acura-tl-type-s-jomanire-and-lazlow555) | ✔️ |
 | **Aston Martin DBX Carbon Edition** | amdbx | ![Picture](./img/amdbx.webp) | kuchka78 | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-dbx-carbon-edition) | ✔️ |
 | **2013 Aston Martin Vanquish** | ast | ![Picture](./img/ast.webp) | YCA-ANSWER | [5MODS Link](https://www.gta5-mods.com/vehicles/aston-martin-vanquish-2013) | ✔️ |
@@ -105,37 +105,42 @@ all cars below besides the ones in poly-super-high.txt below 300k poly count.
 | **2013 Lamborghini Veneno LP750-4** | veneno | ![Picture](./img/veneno.webp) | yanfenglenfan | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-lamborghini-veneno-lp750-4-add-on-l-tuning-l-4k-template-l-digital-gear) | ✔️ |
 | **Lexus GS 350** | gs350 | ![Picture](./img/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **2014 Lexus IS 350** | is350mod | ![Picture](./img/is350mod.jpg) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-lexus-is-350-exterior-remodel-add-on-tuning-template) | ✔️ |
+| **2020 Lexus LC500** | lc500 | ![Picture](./img/lc500.jpg) | GTAWiseGuy | Nopixel Asset | ✔️ |
+| **2010 Lexus LFA** | lexlfa10 | ![Picture](./img/lexlfa10.jpg) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/lexus-lfa-2010-add-on-lods-livery) | ✔️ |
 | **2015 Lexus RCF** | rcf | ![Picture](./img/rcf.jpg) | YCA-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-lexus-rcf-add-on-rocketbunny) | ✔️ |
-| **1973 Land Rover Range Rover** | lrrr | ![Picture](./img/Irrr.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/land-rover-range-rover-1973-add-on-offroad-stock-dirtmap-extras) | ✔️ |
 | **2002 Lotus Esprit V8** | esprit02 | ![Picture](./img/esprit02.webp) | OhiOcinu | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-lotus-esprit-v8-add-on-lods-template) | ✔️ |
-| **Quartz Regalia 723** | regalia | ![Picture](./img/regalia.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/quartz-regalia-723) | ✔️ | Fictional [Final Fantasy XV] |
+| **Quartz Regalia 723** | regalia | ![Picture](./img/regalia.webp) | VsV_NoRD | [5MODS Link](https://www.gta5-mods.com/vehicles/quartz-regalia-723) | ✔️ | 
 | **Maserati Levante** | levante | ![Picture](./img/levante.jpg) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/maserati-levante-add-on-replace) | ✔️ |
+| **Maserati GranTurismo** | maseratigt | ![Picture](./img/maseratigt.jpg) | VIP GROUP | [5MODS Link](https://www.gta5-mods.com/vehicles/maserati-gt) | ✔️ |
 | **1984 Mazda RX-7 Stanced Version** | 84rx7k | ![Picture](./img/84rx7k.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1984-mazda-rx-7-stanced-version-five-m-replace-add-on) | ✔️ |
-| **2002 Mazda RX-7 FD Drag** | dragfd | ![Picture](./img/dragfd.webp) | Khafra | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-drag-fd-rx7) | ✔️ |
 | **Mazda RX7 FC3S** | fc3s | ![Picture](./img/fc3s.webp) | erfet, Ghost0912 | [5MODS Link](https://www.gta5-mods.com/vehicles/mazda-rx7-fc3s-tunable) | ✔️ |
 | **Mazda RX-7 FD** | majfd | ![Picture](./img/majfd.webp) | MajesticDoggo | [5MODS Link](https://www.gta5-mods.com/vehicles/mazda-rx-7-fd-add-on-tuning-rhd) | ✔️ |
 | **1989 Mazda Miata NA** | miata3 | ![Picture](./img/miata3.jpg) | Cereal | [5MODS Link](https://www.gta5-mods.com/vehicles/1989-miata-na-add-on-tunable-cambered) | ✔️ |
 | **Mazda MX-5 Miata (NA6C)** | na6 | ![Picture](./img/na6.webp) | [YCA]Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/1994-mazda-mx-5-miata-na6c) | ✔️ |
 | **McLaren 650S Coupe** | 650s | ![Picture](./img/650s.jpg) | Zen-Imogen | [5MODS Link](https://www.gta5-mods.com/vehicles/mclaren-650s-coupe-hq) | ✔️ |
 | **2016 McLaren 675LT Coupe** | 675lt | ![Picture](./img/675lt.webp) | Zen-Imogen, ZenZoit & NGR_Ardiansyah | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-mclaren-675lt-coupe-zen-imogen-zenzoit-ngr_ardiansyah) | ✔️ |
+| **McLaren 675LT Spider** | 675ltsp | ![Picture](./img/675ltsp.webp) | [YCA]Se7enMoon | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-mclaren-675lt-spider-automatic-convertible) | ✔️ |
 | **2017 McLaren 720S** | 720s | ![Picture](./img/720s.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-mclaren-720s-add-on-tuning-hq) | ✔️ |
 | **1996 McLaren F1 GTR** | gtr96 | ![Picture](./img/gtr96.jpg) | Maxim_aka_Pianist (Maxim Gorbanev) | [5MODS Link](https://www.gta5-mods.com/vehicles/1996-mclaren-f1-gtr) | ✔️ |
 | **2020 McLaren Speedtail** | mcst | ![Picture](./img/mcst.jpg) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-mclaren-speedtail-add-on-aero-flaps) | ✔️ |
 | **McLaren MP4-12C** | mp412c | ![Picture](./img/mp412c.webp) | Dyc3 | [5MODS Link](https://www.gta5-mods.com/vehicles/mclaren-mp4-12c) | ✔️ |
 | **2019 McLaren Senna** | senna | ![Picture](./img/senna.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-mclaren-senna) | ✔️ |
-| **2020 Mercedes-Benz AMG GT-R Roadster** | amggtrr20 | ![Picture](./img/amggtrr20.webp) | [DTD] Asyr0n & CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-mercedes-benz-amg-gt-r-roadster-animated-roof-add-on-template) | ✔️ | Convertible |
+| **2020 Mercedes-Benz AMG GT-R Roadster Convert** | amggtrr20 | ![Picture](./img/amggtrr20.webp) | [DTD] Asyr0n & CyberdyneSystems | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-mercedes-benz-amg-gt-r-roadster-animated-roof-add-on-template) | ✔️ |
+| **Mercedes-Benz AMG GT-R Black Series** | amggtbs | ![Picture](./img/amggtbs.webp) | Dennissaurus | [5MODS Link](https://www.gta5-mods.com/vehicles/mercedes-amg-gt-black-series) | ✔️ |
 | **2020 Mercedes-AMG C63s** | c6320 | ![Picture](./img/c6320.webp) | Anas0133 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-mercedes-amg-c63s-amg) | ✔️ |
 | **2013 Mercedes-Benz G65 AMG** | G65 | ![Picture](./img/G65.webp) | smokey8808 | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-mercedes-benz-g65-amg-add-on) | ✔️ |
+| **2022 Mercedes-Benz G63 AMG** | 22g63 | ![Picture](./img/G63.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/2022-mercedes-amg-g63-add-on) | ✔️ |
 | **2019 Mercedes-Benz E400 Coupe 4matic (C238)** | e400 | ![Picture](./img/e400.webp) | ahmeda1999 | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-mercedes-benz-e400-4matic-c238-add-on-replace-analog-digital-dials) | ✔️ |
 | **Mercedes-Benz GL63 AMG** | gl63 | ![Picture](./img/gl63.webp) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/mercedes-gl63-gl500-amg) | ✔️ |
 | **2012 Mercedes-Benz C63 AMG Coupe Black Series** | mbc63 | ![Picture](./img/mbc63.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2012-mercedes-benz-c63-amg-coupe-black-series-add-on-tuning-lods-extras-template) | ✔️ |
+| **Mercedes-AMG GT63 S Coupe** | rmodgt63 | ![Picture](./img/rmodgt63.webp) | Rmod Customs | [5MODS Link](https://www.gta5-mods.com/vehicles/mercedes-amg-gt63-s-coupe#comments_tab) | ✔️ |
 | **2014 Mercedes-Benz S500 W222** | s500w222 | ![Picture](./img/s500w222.jpg) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/mercedes-benz-s500-w222) | ✔️ |
 | **1995 Mercedes-Benz SL500** | sl500 | ![Picture](./img/sl500.webp) | bozdemirt | [5MODS Link](https://www.gta5-mods.com/vehicles/mercedes-benz-sl500-1995) | ✔️ |
 | **Mercedes-Benz V-class 250 Bluetec LWB** | v250 | ![Picture](./img/v250.webp) | Faysal | [5MODS Link](https://www.gta5-mods.com/vehicles/mercedes-benz-v-class-250-bleuthec-2015-faysal) | ✔️ |
 | **Mitsubishi Lancer Evo VI T.M.E (CP9A)** | cp9a | ![Picture](./img/cp9a.webp) | [YCA]Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/mitsubishi-lancer-evolution-vi-tme-cp9a-gsr-evo5-varis) | ✔️ |
 | **Mitsubishi FTO GP Version-R** | fto | ![Picture](./img/fto.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/mitsubishi-fto-gp-version-r-add-on-lods-tuning-template) | ✔️ |
 | **Nissan 180SX Type-X** | 180sx | ![Picture](./img/180sx.webp) | Cereal | [5MODS Link](https://www.gta5-mods.com/vehicles/180sx-type-x-tunable) | ✔️ |
-| **2017 Nissan GTR** | gtr | ![Picture](./img/gtr.webp) | YCA-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-nissan-gtr-nismo-yca-y97y) | ✔️ |
+| **2017 Nissan GTR R35** | gtr | ![Picture](./img/gtr.webp) | YCA-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-nissan-gtr-nismo-yca-y97y) | ✔️ |
 | **2017 R35 Nissan GTR Convertible** | gtrc | ![Picture](./img/gtrc.webp) | TGIJ | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-r35-nissan-gtr-convertible-standard-widebody-replace-addon) | ✔️ |
 | **Nissan Fairlady Z Z33** | maj350 | ![Picture](./img/maj350.webp) | Nissan Fairlady Z Z33 | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-350z-z33-add-on-tuning) | ✔️ |
 | **2017 Nissan Titan Warrior** | nissantitan17 | ![Picture](./img/nissantitan17.webp) | gtavmodscar | [5MODS Link](https://www.gta5-mods.com/vehicles/nissan-titan-warrior-2017-replace) | ✔️ |
@@ -164,11 +169,11 @@ all cars below besides the ones in poly-super-high.txt below 300k poly count.
 | **2004 Subaru Impreza WRX STI** | subwrx | ![Picture](./img/subwrx.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning) | ✔️ |
 | **1996 Subaru Alcyone SVX** | svx | ![Picture](./img/svx.jpg) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/subaru-alcyone-svx-lods-template-add-on) | ✔️ |
 | **2019 Suzuki Katana** | katana | ![Picture](./img/katana.jpg) | Zen-Imogen, NGR_Ardiansyah | [5MODS Link](https://www.gta5-mods.com/vehicles/2019-suzuki-katana) | ✔️ |
-| **2020 Tesla Roadster** | tr22 | ![Picture](./img/tr22.webp) | skyrix | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-roadster-2020-add-on-replace-auto-spoiler) | ✔️ | [Custom Handling](https://www.gta5-mods.com/vehicles/realistic-tesla-roadster-2020-handling) |
+| **2020 Tesla Roadster** | tr22 | ![Picture](./img/tr22.webp) | skyrix | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-roadster-2020-add-on-replace-auto-spoiler) | ✔️ | 
 | **Tesla Model X Unplugged Performance** | p90d | ![Picture](./img/p90d.webp) | MrDK | [5MODS Link](https://www.gta5-mods.com/vehicles/telsa-model-x-unplugged-performance-hq-addon) | ✔️ |
 | **2016 Tesla Model S P90D** | models | ![Picture](./img/models.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-tesla-model-s-p90d) | ✔️ | [Custom Handling](https://www.gta5-mods.com/vehicles/tesla-model-s-p90d-2016-handling) |
 | **2016 Tesla Model X P90D** | teslax | ![Picture](./img/teslax.jpg) | Biggdogg & FoxtrotDelta | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-model-x-p90d) | ✔️ |
-| **2017 Tesla Model S Prior design** | teslapd | ![Picture](./img/teslapddd.webp) | [DTD]RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-prior-design-add_on-replace) | ✔️ | [Custom Handling](https://www.gta5-mods.com/vehicles/spawn-fix-realistic-handling-for-tesla-model-s-prior-design-2017) |
+| **2017 Tesla Model S Prior design** | teslapd | ![Picture](./img/teslapddd.webp) | [DTD]RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-prior-design-add_on-replace) | ✔️ |
 | **2018 Toyota Camry XSE** | cam8tun | ![Picture](./img/cam8tun.png) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-camry-xse-2018-crazy-exterior-add-on-tuning) | ✔️ |
 | **1998 Toyota Supra MK4 (A80)** | a80 | ![Picture](./img/toysupmk42.webp) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-supra-add-on-stock-more-tuning) | ✔️ |
 | **1998 Toyota Supra MK4 (A80s)** | a80s | ![Picture](./img/toysupmk43.webp) | Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/1998-toyota-supra-jza80-trd-varis-ridox-rhd) | ✔️ |
