@@ -1,4 +1,7 @@
-# FiveM Civilian Car Pack
+# FiveM Car Pack 
+all cars below besides the ones in poly-super-high.txt below 300k poly count.
+
+
 
 <!--![Car Menu](https://img.shields.io/badge/Car%20Menu-Up%20to%20Date-brightgreen?style=for-the-badge)-->
 <!--![Car List](https://img.shields.io/badge/Car%20List-Outdated-red?style=for-the-badge)-->
@@ -170,14 +173,14 @@
 | **2016 Tesla Model X P90D** | teslax | ![Picture](./img/teslax.jpg) | Biggdogg & FoxtrotDelta | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-model-x-p90d) | ✔️ |
 | **2017 Tesla Model S Prior design** | teslapd | ![Picture](./img/teslapd.webp) | [DTD]RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/tesla-prior-design-add_on-replace) | ✔️ | [Custom Handling](https://www.gta5-mods.com/vehicles/spawn-fix-realistic-handling-for-tesla-model-s-prior-design-2017) |
 | **2018 Toyota Camry XSE** | cam8tun | ![Picture](./img/cam8tun.png) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-camry-xse-2018-crazy-exterior-add-on-tuning) | ✔️ |
-| **1998 Toyota Supra Turbo (A80)** | toysupmk4 | ![Picture](./img/toysupmk4.webp) | Wanted188, HummingBird | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-supra-turbo-98-a80-add-on-lods-250-tuning-parts) | ✔️ |
+| **1998 Toyota Supra MK4 (A80)** | a80 | ![Picture](./img/toysupmk42.webp) | AlexHIT | [5MODS Link](https://www.gta5-mods.com/vehicles/toyota-supra-add-on-stock-more-tuning) | ✔️ |
+| **1998 Toyota Supra MK4 (A80s)** | a80s | ![Picture](./img/toysupmk43.webp) | Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/1998-toyota-supra-jza80-trd-varis-ridox-rhd) | ✔️ |
 | **Toyota Mark II JZX100** | mk2100 | ![Picture](./img/mk2100.webp) | cereaI | [5MODS Link](https://www.gta5-mods.com/vehicles/jzx100-mark-ii-add-on-tuning-template) | ✔️ |
 | **Toyota Trueno (AE86)** | ae86 | ![Picture](./img/ae86.webp) | [YCA]forget | [5MODS Link](https://de.gta5-mods.com/vehicles/toyota-trueno-ae86-add-on-rhd-lnital-d) | ✔️ |
 | **2016 Toyota Land Cruiser VXR** | vxr | ![Picture](./img/vxr.jpg) | Abdulrhman1 | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-land-cruiser-vxr) | ✔️ |
 | **2015 Volkswagen Golf GTI MK7** | golfgti7 | ![Picture](./img/golfgti7.webp) | mateus_ulhoa3D | [5MODS Link](https://www.gta5-mods.com/vehicles/volkswagen-golf-gti-mk7-2015-add-on-replace-digital-dials-dirt-map) | ✔️ |
 | **2018 Volkswagen Amarok V6** | amarok | ![Picture](./img/amarok.webp) | SaleeN | [5MODS Link](https://de.gta5-mods.com/vehicles/2018-volkswagen-amarok-v6-add-on-replace) | ✔️ |
 | **2016 Volkswagen Passat B8** | vwr | ![Picture](./img/vwr.webp) | zQrba | [5MODS Link](https://de.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on) | ✔️ |
-| **2016 Volkswagen Scirocco R 2011** | passat | ![Picture](./img/passat.webp) | bozdemirt | [5MODS Link](https://de.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on) | ✔️ |
 | **Volkswagen Golf 8 GTI** | golf8gti | ![Picture](./img/golf8gti.webp) | Rowan (Waslijn) | [5MODS Link](https://de.gta5-mods.com/vehicles/volkswagen-golf-8-gti-unlocked-add-on) | ✔️ |
 | **Volvo XC90 T8** | xc90 | ![Picture](./img/xc90.png) | Jureeke | [5MODS Link](https://www.gta5-mods.com/vehicles/volvo-xc90-t8-add-on-fivem-jureeke) | ✔️ |
 | **W-Motors Lykan HyperSport** | lykan | ![Picture](./img/Lykan.webp) | Kpym | [5MODS Link](https://www.gta5-mods.com/vehicles/w-motor-lykan-hypersport-add-on-replace-digital-dials) | ✔️ |
