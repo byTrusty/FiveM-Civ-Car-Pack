@@ -47,20 +47,19 @@ all cars below besides the ones in poly-super-high.txt below 300k poly count.
 | **2015 Chevrolet Tahoe** | 15tahoe | ![Picture](./img/15tahoe.png) | SWPOK | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-chevy-tahoe-with-extras-addon) | ✔️ |
 | **2017 Chevrolet Camaro RS** | camrs17 | ![Picture](./img/camrs17.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-camaro-rs-2017-add-on-replace-lods) | ✔️ |
 | **2021 Chevrolet Tahoe RST** | tahoe21 | ![Picture](./img/tahoe21.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-chevrolet-tahoe-rst-add-on) | ✔️ |
+| **2021 Chevrolet Camaro ZL1** | zl1 | ![Picture](./img/zl1.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-chevrolet-tahoe-rst-add-on) | ✔️ |
 | **2014 Chevrolet Corvette C7 Stingray** | c7 | ![Picture](./img/c7.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-chevrolet-corvette-c7-stingray-aige) | ✔️ |
 | **2020 Chevrolet Corvette C8 Stingray** | stingray | ![Picture](./img/c8.webp) | LightningJet357 | [5MODS Link](https://gta5-mods.com/vehicles/2020-corvette-c8-stingray-add-on-oiv-tuning-template) | ✔️ |
 | **2020 Chevrolet Camaro SS** | 2020ss | ![Picture](./img/2020ss.webp) | ArcticAsian | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-chevrolet-camaro-ss-add-on-replace-tuning-template-rs-ss-zl1-1le-widebody) | ✔️ |
 | **Chevrolet Corvette C5 Z06** | corvettec5z06 | ![Picture](./img/corvettec5z06.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-c5-z06-lods-add-on-template-liveries) | ✔️ |
 | **2009 Chevrolet Corvette ZR1** | czr1 | ![Picture](./img/czr1.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template) | ✔️ |
-| **2016 Dodge Charger** | 16charger | ![Picture](./img/16charger.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq) | ✔️ |
 | **1999 Dodge Viper GTS ACR** | 99viper | ![Picture](./img/99viper.webp) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-dodge-viper-gts-acr) | ✔️ |
-| **Dodge Charger Hellcat Widebody 2021** | chr20 | ![Picture](./img/chr20.webp) | Aaaqil | [5MODS Link](https://www.gta5-mods.com/vehicles/dodge-charger-hellcat-widebody-2021) | ✔️ |
+| **2020 Dodge Charger SRT Hellcat Daytona** | srtday20 | ![Picture](./img/srtday20.webp) | RAZ3R_BLAD3 | [5MODS Link](https://www.gta5-mods.com/vehicles/2020-dodge-charger-srt-hellcat-daytona-50th-anniversary-edition-add-on) | ✔️ |
 | **2018 Dodge Challenger SRT** | demon | ![Picture](./img/demon.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-dodge-challenger-srt-demon-libertywalk-add-on) | ✔️ |
 | **Dodge Challenger Raid** | raid | ![Picture](./img/raid.jpg) | Neophyte Industries | [5MODS Link](https://www.gta5-mods.com/vehicles/dodge-challanger-raid) | ✔️ |
 | **2015 Dodge RAM 2500** | ram2500 | ![Picture](./img/ram2500.webp) | DeezNutties123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-dodge-ram-2500-add-on-tuning) | ✔️ |
 | **Dodge Neon SRT-4** | srt4 | ![Picture](./img/srt4.jpg) | Vxl | [Newmods Link](https://newmods.net/gta-5-dodge-neon-srt-4-add-on-tuning-template-unlock-1-0/) | ✔️ |
 | **2017 Dodge RAM 1500 Rebel TRX** | trx | ![Picture](./img/trx.webp) | DeezNutties123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ram-1500-rebel-trx-concept-add-on-beta) | ✔️ |
-| **2016 Dodge Challenger** | 16challenger | ![Picture](./img/16challenger.jpg) | tk0wnz | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-dodge-challenger-add-on-stock-shaker-hellcat) | ✔️ |
 | **Dacia Sandero 2014** | sandero | ![Picture](./img/sandero.webp) | JUVENILE | [5MODS Link](https://de.gta5-mods.com/vehicles/dacia-sandero-2014) | ✔️ |
 | **2008 Dacia Logan** | logan | ![Picture](./img/logan.webp) | JUVENILE | [5MODS Link](https://de.gta5-mods.com/vehicles/2008-dacia-logan) | ✔️ |
 | **Dacia 1310 2001** | 1310 | ![Picture](./img/1310.webp) | Andrei9948 | [5MODS Link](https://de.gta5-mods.com/vehicles/dacia-1310) | ✔️ |
@@ -69,18 +68,19 @@ all cars below besides the ones in poly-super-high.txt below 300k poly count.
 | **Ferrari 488 Spider** | 488 | ![Picture](./img/488.jpg) | [DTD]Dennissaurus | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-488-gts-addon-replace-tuner) | ✔️ |
 | **Ferrari F430 Scuderia** | f430s | ![Picture](./img/f430s.webp) | SCRAT | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-430-scuderia-add-on-replace-tuning-template) | ✔️ |
 | **2018 Ferrari 812 Superfast** | f812 | ![Picture](./img/f812.webp) | Gta5KoRn | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-812-superfast) | ✔️ |
-| **2015 Ferrari California T** | fct | ![Picture](./img/fct.jpg) | abdulla_kw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-california-t-2015-replace) | ✔️ |
 | **Ferrari FXX-K Hybrid Hypercar** | fxxk | ![Picture](./img/fxxk.webp) | Rmod Customs | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-fxx-k) | ✔️ |
 | **2015 Ferrari LaFerrari** | laferrari | ![Picture](./img/laferrari.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler) | ✔️ |
 | **Ferrari Enzo** | mig | ![Picture](./img/mig.jpg) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-enzo-gemballa-mig-u1-tuning-add-on#description_tab) | ✔️ |
 | **Ferrari 458 Italia, Spider, Speciale & Aperta** | yFe458i1, yFe458i2, yFe458s1X, yFe458s1, yFe458s2X, yFe458s2 | ![Picture](./img/yFe458.jpg) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-458-spider-2013-add-on-tuning-livery) | ✔️ |
-| **Ferrari F12 TRS & F60 America** | yFeF12T, yFeF12A | ![Picture](./img/yFeF12.webp) | dsawdsaw | [5MODS Link](https://www.gta5-mods.com/vehicles/ferrari-f12-pack) | ✔️ |
 | **2012 Ford F150 SVT Raptor R** | f150 | ![Picture](./img/f150.webp) | [GOC]peng00820 | [5MODS Link](https://www.gta5-mods.com/vehicles/2012-ford-f150-svt-raptor) | ✔️ |
 | **1978 Ford F150 XLT Ranger** | f15078 | ![Picture](./img/f15078.webp) | OhiOcinu & GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/1978-ford-f150-xlt-add-on) | ✔️ |
 | **2005 Ford GT** | fgt | ![Picture](./img/fgt.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2005-ford-gt-aige) | ✔️ |
 | **2017 Ford GT** | gt17 | ![Picture](./img/gt17.webp) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-gt-add-on-replace-yca-aige) | ✔️ |
+| **2020 Ford Mustang GT500** | forgt50020 | ![Picture](./img/forgt50020.webp) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/ford-mustang-shelby-gt500-2020-add-on-lods-template-sound) | ✔️ |
+| **NFS Ford GT500** | mst | ![Picture](./img/mst.webp) | YCA - ANSWER | [5MODS Link](https://www.gta5-mods.com/vehicles/ford-mustang-gt-nfs-gt500-2013-add-on) | ✔️ |
+| **2013 Ford Mustang GT500** | shelbygt500 | ![Picture](./img/shelbygt500.webp) | DragoN777 | [5MODS Link](https://www.gta5-mods.com/vehicles/ford-shelby-gt500-add-on-replace) | ✔️ |
 | **2015 Ford Mustang GT 50 Years Special Edition** | mustang50th | ![Picture](./img/mustang50th.webp) | modcanario (alertacobra_gta5_mods) and zQrba | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-ford-mustang-gt-50-years-special-edition-add-on-tunning) | ✔️ |
-| **2017 Ford Raptor** | raptor2017 | ![Picture](./img/raptor2017.webp) | Vans123 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning) | ✔️ |
+| **2017 Ford Raptor** | 17raptor | ![Picture](./img/raptor2017.webp) | ArteX | [5MODS Link](https://www.gta5-mods.com/vehicles/els-police-and-civilian-2017-ford-raptor-add-on) | ✔️ |
 | **2021 Ford Bronco Wildtrak** | wildtrak | ![Picture](./img/wildtrak.webp) | LightningJet357 | [5MODS Link](https://www.gta5-mods.com/vehicles/2021-ford-bronco-wildtrak-add-on-fivem) | ✔️ |
 | **1997 Honda Civic Sedan Drag Version** | dragekcivick | ![Picture](./img/dragekcivick.webp) | KreyZ Designs | [5MODS Link](https://www.gta5-mods.com/vehicles/1999-honda-civic-sedan-drag-version/) | ✔️ | xAdrian |
 | **Honda S2000 AP2** | ap2 | ![Picture](./img/ap2.webp) | AlperB | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-s2000-tunable) | ✔️ |
@@ -88,14 +88,16 @@ all cars below besides the ones in poly-super-high.txt below 300k poly count.
 | **2018 Honda Civic Type-R (FK8)** | fk8 | ![Picture](./img/fk8.webp) | [YCA]Vsoreny | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-honda-civic-type-r-fk8) | ✔️ |
 | **Honda CRX SiR 1991** | honcrx91 | ![Picture](./img/honcrx91.jpg) | Wanted188, GreenAid | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-crx-sir-91-add-on-tuning-template-lods) | ✔️ |
 | **1992 Honda NSX-R (NA1)** | na1 | ![Picture](./img/na1.jpg) | yca-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/honda-nsx-r-na1-1992) | ✔️ |
+| **2016 Honda NSX (NC1)** | nc1 | ![Picture](./img/nc1.jpg) | [YCA]Aige | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-honda-nsx-nc1) | ✔️ |
 | **2017 Italdesign Zerouno** | it18 | ![Picture](./img/it18.webp) | 00AbOlFaZl00 | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-italdesign-zerouno-add-on-analog-liverys-extras) | ✔️ |
 | **Jaguar F-pace 2017 hamann edition** | fpacehm | ![Picture](./img/fpacehm.webp) | RsMods | [5MODS Link](https://www.gta5-mods.com/vehicles/jaguar-f-pace-hamann-edition) | ✔️ |
 | **2012 Jeep Wrangler** | jeep2012 | ![Picture](./img/jeep2012.webp) | Dyc3 | [5MODS Link](https://www.gta5-mods.com/vehicles/12-jeep-wrangler-hq) | ✔️ |
-| **Jeep Renegade** | jeepreneg | ![Picture](./img/jeepreneg.jpg) | Los Santos Import | [5MODS Link](https://www.gta5-mods.com/vehicles/jeep-renegade-add-on) | ✔️ |
 | **2015 Jeep SRT-8** | srt8 | ![Picture](./img/srt8.webp) | saysay & Alex9581 | [5MODS Link](https://www.gta5-mods.com/vehicles/jeep-srt-8-2015-add-on-replace) | ✔️ |
 | **2018 Jeep Grand Cherokee Trackhawk Series IV** | trhawk | ![Picture](./img/trhawk.webp) | Soongae | [5MODS Link](https://www.gta5-mods.com/vehicles/2018-jeep-grand-cherokee-trackhawk-series-iv-add-on) | ✔️ |
+| **2017 Kia Stinger GT** | kiagt | ![Picture](./img/kiagt.png) | Soongae | [5MODS Link](https://www.gta5-mods.com/vehicles/kia-stinger-3-3-gt-2017-addon-0-5-beta) | ✔️ |
 | **2017 Koenigsegg Agera RS** | agerars | ![Picture](./img/agerars.png) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/2017-koenigsegg-agera-rs-add-on) | ✔️ |
 | **Koenigsegg Regara** | regera | ![Picture](./img/regera.webp) | EvertW | [5MODS Link](https://www.gta5-mods.com/vehicles/2016-koenigsegg-regera-add-on-autospoiler) | ✔️ |
+| **Lamborghini Huracan LP 610 LW** | 610lb | ![Picture](./img/610lb.webp) | ANSWER | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-lp-610-liberty-walk) | ✔️ |
 | **Lamborghini Huracan Super Trofeo** | huracanst | ![Picture](./img/huracanst.webp) | yanfenglenfan | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-huracan-super-trofeo-add-on-hq-1-0) | ✔️ |
 | **Lamborghini Sesto Elemento** | lambose | ![Picture](./img/lambose.jpg) | yanfenglenfan | [5MODS Link](https://www.gta5-mods.com/vehicles/lamborghini-sesto-elemento-add-on-digital-gear-hq) | ✔️ |
 | **2009 Lamborghini Murcielago LP 670-4 SV** | lp670sv | ![Picture](./img/lp670sv.webp) | le__AK | [5MODS Link](https://www.gta5-mods.com/vehicles/2009-lamborghini-murcielago-lp-670-4-sv-add-on) | ✔️ |
@@ -105,7 +107,7 @@ all cars below besides the ones in poly-super-high.txt below 300k poly count.
 | **2013 Lamborghini Veneno LP750-4** | veneno | ![Picture](./img/veneno.webp) | yanfenglenfan | [5MODS Link](https://www.gta5-mods.com/vehicles/2013-lamborghini-veneno-lp750-4-add-on-l-tuning-l-4k-template-l-digital-gear) | ✔️ |
 | **Lexus GS 350** | gs350 | ![Picture](./img/gs350.jpg) | [YCA] SCRAT | [5MODS Link](https://gta5-mods.com/vehicles/lexus-gs-350-add-on-replace-tuning-template) | ✔️ |
 | **2014 Lexus IS 350** | is350mod | ![Picture](./img/is350mod.jpg) | johnny8937 | [5MODS Link](https://www.gta5-mods.com/vehicles/2014-lexus-is-350-exterior-remodel-add-on-tuning-template) | ✔️ |
-| **2020 Lexus LC500** | lc500 | ![Picture](./img/lc500.jpg) | GTAWiseGuy | Nopixel Asset | ✔️ |
+| **2020 Lexus LC500** | lc500 | ![Picture](./img/lc500.jpg) | GTAWiseGuy | [5MODS Link](https://www.gta5-mods.com/users/GTAWiseGuy) | ✔️ |
 | **2010 Lexus LFA** | lexlfa10 | ![Picture](./img/lexlfa10.jpg) | Wanted188 | [5MODS Link](https://www.gta5-mods.com/vehicles/lexus-lfa-2010-add-on-lods-livery) | ✔️ |
 | **2015 Lexus RCF** | rcf | ![Picture](./img/rcf.jpg) | YCA-y97y | [5MODS Link](https://www.gta5-mods.com/vehicles/2015-lexus-rcf-add-on-rocketbunny) | ✔️ |
 | **2002 Lotus Esprit V8** | esprit02 | ![Picture](./img/esprit02.webp) | OhiOcinu | [5MODS Link](https://www.gta5-mods.com/vehicles/2002-lotus-esprit-v8-add-on-lods-template) | ✔️ |
